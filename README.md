@@ -1,0 +1,1 @@
+https://zenn.dev/k_takumi/articles/how-to-calculate-olcan-return
